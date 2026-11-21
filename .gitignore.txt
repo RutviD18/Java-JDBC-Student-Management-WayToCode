@@ -1,0 +1,27 @@
+
+# Java compiled files
+*.class
+
+# Maven build folder
+target/
+
+# NetBeans private settings
+nbproject/private/
+
+# Generated files
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Log files
+*.log
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
